@@ -1,0 +1,39 @@
+a{
+    text-decoration:none;
+}
+
+.project-component{
+    max-width:500px;
+    max-height: 500px;
+    background-image: linear-gradient(to right, rgb(64, 77, 255) , rgb(119, 32, 131));
+    color:white;
+    margin-top: 5px;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-bottom: 8px;
+    padding-top: 5px;
+}
+
+p, h2{
+    color:white;
+}
+
+.project-image{
+    max-width: 300px;
+    max-height: 150px;
+    border-radius: 10px;
+    margin-right: 8px;
+}
+
+.project-text h2{
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+.project-text p{
+    margin-top: 0px;
+}
+
+.project-content{
+    display:flex;
+}
