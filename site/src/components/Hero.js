@@ -5,8 +5,8 @@ export default function Hero(){
         <div id = "hero">
             <img id = "my-pic" src = "https://media.licdn.com/dms/image/D5603AQHgfF9t-5pvCg/profile-displayphoto-shrink_800_800/0/1686001697096?e=2147483647&v=beta&t=osq-DzTH5wDhOb6QFXcMjG2Pbs6kHXmKCqQqmpCwHu0" alt = "me"/>
             <div id = "hero-text">
-                <h1 class = "name">Westin Montano</h1>
-                <h2 class = "title">Game Developer and Lecturer at UCR</h2>
+                <h1 className = "name">Westin Montano</h1>
+                <h2 className = "title">Game Developer and Lecturer at UCR</h2>
             </div>
         </div>
     );

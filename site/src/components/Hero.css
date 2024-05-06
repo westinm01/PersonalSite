@@ -11,6 +11,7 @@ div#hero{
     background-image: linear-gradient(to right, rgb(120, 83, 255) , rgb(24, 83, 192));
     width: 700px;
     border-radius: 10px;
+    color:white;
 
 }
 

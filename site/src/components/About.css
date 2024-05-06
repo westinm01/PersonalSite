@@ -1,0 +1,8 @@
+div#about-section{
+    color:white;
+    background-image: linear-gradient(to right, rgb(83, 137, 255) , rgb(24, 102, 192));
+    width: 680px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
