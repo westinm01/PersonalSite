@@ -1,0 +1,21 @@
+#my-pic{
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+div#hero{
+    display:flex;
+    justify-content:flex-start;
+    background-image: linear-gradient(to right, rgb(120, 83, 255) , rgb(24, 83, 192));
+    width: 700px;
+    border-radius: 10px;
+
+}
+
+div#hero-text{
+    
+    text-align: left;
+    
+}
