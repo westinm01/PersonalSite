@@ -21,7 +21,7 @@ export default function ProjectList(){
     return(
         <div id = "project-section">
 
-            <h1>Projects</h1>
+            <h1 style = {{color:"white"}}>Published Titles</h1>
             <div id = "projects">
                 {projects.map((proj, index) => <Project title={proj.title} desc = {proj.desc} url = {proj.url} image={proj.image} key = {index}></Project>)}
             </div>

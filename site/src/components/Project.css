@@ -5,9 +5,10 @@ a{
 .project-component{
     max-width:500px;
     max-height: 500px;
-    background-image: linear-gradient(to right, rgb(64, 77, 255) , rgb(119, 32, 131));
+    background-image: linear-gradient(to right, rgb(100, 111, 255) , rgb(189, 113, 199));
     color:white;
-    margin-top: 5px;
+    
+    margin-top: 7px;
     border-radius: 10px;
     padding-left: 15px;
     padding-bottom: 8px;

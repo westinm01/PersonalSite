@@ -1,0 +1,48 @@
+
+ul.quarters-taught{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-flow: row;
+    text-align: left;
+    font-size: 15px;
+    padding-left:2px;
+    padding-right: 2px;
+    
+    
+}
+
+.course{
+    color: white;
+    max-width: 150px;
+    
+    text-align:center;
+    background-image: linear-gradient(to right, rgb(67, 70, 248) , rgb(12, 132, 187));
+    border-radius: 10px;
+    padding-left:2px;
+    padding-right:2px;
+    
+}
+
+.course p.name{
+    
+}
+
+ul{
+    list-style-type: none;
+    padding:0px;
+}
+
+ul.all-courses{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-auto-flow: row;
+    gap: 10px;
+}
+
+.course p.name{
+    margin-top: 0px;
+    margin-bottom:5px;
+}
+.course p.title{
+    margin-top: 0px;
+}

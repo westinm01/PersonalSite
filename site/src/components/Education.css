@@ -1,0 +1,30 @@
+.education{
+    max-width: 550px;
+    background-image: linear-gradient(to right, rgb(116, 158, 248) , rgb(104, 25, 150));
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-bottom: 8px;
+    padding-right: 15px;
+    padding-top: 8px;
+    margin: 5px;
+    margin-top: 7px;
+}
+
+.education-header{
+    display: flex;
+    justify-content: space-between;
+}
+.degree{
+    font-size: 1.3em;
+    font-weight: bold;
+    color: white;
+}
+.education-details{
+    
+    color: white;
+    margin-top: 0px;
+    
+}
+.edudet{
+    margin-right: 10px;
+}
