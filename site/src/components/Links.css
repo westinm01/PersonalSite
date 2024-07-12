@@ -1,0 +1,26 @@
+
+footer{
+    width : 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link{
+    margin: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    /*background-image: linear-gradient(120deg, #c278ff 0%, #642681 100%);*/
+    border-radius: 10px;
+    padding: 5px 5px ;
+
+   border-color: rgb(255, 255, 255);
+   border-width: 2px;
+    border-style: solid;
+}
+
+.link:hover{
+    background-color: #ffffff;
+    color: #000000;
+}

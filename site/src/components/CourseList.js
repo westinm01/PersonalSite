@@ -20,6 +20,8 @@ const coursesTaught = [
     },
     {cname: "CS009C", title: "C++ For Programmers", quarters: [
         {season: "Spring", year: 25},
+        {season: "Winter", year: 25},
+        {season: "Fall", year: 24},
         {season: "Winter", year: 24}
         
         ]
@@ -30,7 +32,8 @@ const coursesTaught = [
         ]
     },
     {cname: "CS010B", title: "C++ II", quarters: [
-        {season: "Winter", year: 24}
+        {season: "Winter", year: 24},
+        {season: "Summer", year: 24}
         
         ]
     },

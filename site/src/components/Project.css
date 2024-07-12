@@ -5,14 +5,19 @@ a{
 .project-component{
     max-width:500px;
     max-height: 500px;
-    background-image: linear-gradient(to right, rgb(100, 111, 255) , rgb(189, 113, 199));
-    color:white;
+    /*background-image: linear-gradient(to right, rgb(100, 111, 255) , rgb(217, 132, 228));
+    color:white;*/
     
     margin-top: 7px;
     border-radius: 10px;
     padding-left: 15px;
     padding-bottom: 8px;
     padding-top: 5px;
+
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    background-image: linear-gradient(to right, rgb(189, 113, 199, 0.5) , rgb(100, 111, 255,0.5));
 }
 
 p, h2{
@@ -37,4 +42,9 @@ p, h2{
 
 .project-content{
     display:flex;
+}
+
+.project-component:hover{
+    background-image: linear-gradient(to right, rgb(189, 113, 199) , rgb(100, 111, 255));
+    
 }

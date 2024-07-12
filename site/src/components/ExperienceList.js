@@ -7,7 +7,7 @@ const experiences = [
             "title": "Lecturer",
             "dates": "Jun 2023 - Present",
             "cimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UC_Riverside_logo.svg/2560px-UC_Riverside_logo.svg.png",
-            "description": "Teaching courses in web development, embedded systems, data science, and OOP principles. Also creating innovative resources for students."
+            "description": "Teaching courses in web development, embedded systems, data science, and OOP principles. Always creating innovative to improve student learning (especially in the difficult classes)."
         },
         {
             "cname": "UC Riverside",

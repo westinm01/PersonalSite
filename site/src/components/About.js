@@ -7,7 +7,7 @@ export default function About(props){
     return(
         <div id = "about-section">
         <h2 >About Me</h2>
-        <p>I'm a 22 y.o. Computer Engineer from California! My interests pertain to Game Development, AI/ML, Data Science, and Embedded Systems.</p>
+        <p>I'm a Computer Engineer from California! My interests pertain to Game Development, AI/ML, Data Science, Full-Stack Web Development, and Embedded Systems.</p>
         </div>
     );
 }
