@@ -3,6 +3,13 @@ import React from 'react'
 import Experience from './Experience.js'
 const experiences = [
         {
+            "cname": "Carnegie Mellon University",
+            "title": "Content Technology Developer",
+            "dates": "Sept 2024 - Present",
+            "cimg": "https://www.drupal.org/files/styles/grid-4-2x/public/CMU_Logo_Stack_Red.png?",
+            "description": "Creating programmatic videos and interactive tools for a Calculus I Textbook. Consulting with engineers and math authors to develop tools and strategies to construct a textbook aimed at reducing DFW rates across underrepresented groups."
+        },
+        {
             "cname": "UC Riverside",
             "title": "Lecturer",
             "dates": "Jun 2023 - Present",

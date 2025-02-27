@@ -4,7 +4,6 @@ import {motion} from "framer-motion";
 const coursesTaught = [
     
     {cname: "CS009A", title: "Data Oriented Introduction to Computing I", quarters: [
-        {season: "Winter", year: 25},
         {season: "Fall", year: 24},
         {season: "Summer", year: 24},
         {season: "Spring", year: 24},
@@ -13,27 +12,29 @@ const coursesTaught = [
         ]
     },
     {cname: "CS009B", title: "Data Oriented Introduction to Computing II", quarters: [
-        {season: "Spring", year: 25},
+
         {season: "Winter", year: 24}
         
         ]
     },
     {cname: "CS009C", title: "C++ For Programmers", quarters: [
-        {season: "Spring", year: 25},
-        {season: "Winter", year: 25},
         {season: "Fall", year: 24},
         {season: "Winter", year: 24}
         
         ]
     },
     {cname: "CS010A", title: "C++ I", quarters: [
+        {season: "Spring", year: 25},
+        {season: "Winter", year: 25},
         {season: "Fall", year: 23}
         
         ]
     },
     {cname: "CS010B", title: "C++ II", quarters: [
+        {season: "Winter", year: 25},
+        {season: "Summer", year: 24},
         {season: "Winter", year: 24},
-        {season: "Summer", year: 24}
+        
         
         ]
     },
