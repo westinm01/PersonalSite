@@ -7,7 +7,7 @@ const experiences = [
             "title": "Content Technology Developer",
             "dates": "Sept 2024 - Present",
             "cimg": "https://www.drupal.org/files/styles/grid-4-2x/public/CMU_Logo_Stack_Red.png?",
-            "description": "Creating programmatic videos and interactive tools for a Calculus I Textbook. Consulting with engineers and math authors to develop tools and strategies to construct a textbook aimed at reducing DFW rates across underrepresented groups."
+            "description": "Creating programmatic videos and interactive tools for an online Calculus I textbook. Consulting with engineers and math authors to develop tools and strategies for constructing a textbook aimed at reducing DFW rates across underrepresented groups nationwide."
         },
         {
             "cname": "UC Riverside",
